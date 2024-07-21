@@ -37,6 +37,10 @@ display: -webkit-box;
   max-width: 356px;
   width: 100%;
 }
+.max-w-422{
+  max-width: 422px;
+  width: 100%;
+}
 .max-w-470{
   max-width: 470px;
   width: 100%;
